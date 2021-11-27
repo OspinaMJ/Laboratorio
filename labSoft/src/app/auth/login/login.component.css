@@ -1,0 +1,16 @@
+.container{
+    padding-top:200px;
+    align:center;
+    width: 60%;    
+    padding:20px 16px;
+    
+}
+.bg-success{
+    background-image: url("https://c.tenor.com/mGsydEoS7OwAAAAd/end-mod.gif"); 
+    background-position: center 25%; 
+    background-size: cover;
+    padding:100px 100px;
+  }
+.color2{
+    background: -webkit-linear-gradient(90deg,  #EF9B8D 20%, #EF9B8D 85%)
+}
